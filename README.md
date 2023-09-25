@@ -24,7 +24,7 @@ Botium Toys, a leading toy manufacturer, understands the importance of cybersecu
 - [Stakeholder Memorandum (Completed)](https://github.com/kylanpaige/Cybersecurity-Audit-Report/blob/main/docs/completed_stakeholder_memorandum.pdf)
 
 ## Contributors
-- Kylan Paige [(URL_TO_YOUR_GITHUB_PROFILE)](https://github.com/kylanpaige) - Lead Auditor
+- [Kylan Paige](https://github.com/kylanpaige) - Lead Auditor
 
 ---
 
