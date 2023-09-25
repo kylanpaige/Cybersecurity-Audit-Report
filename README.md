@@ -7,8 +7,7 @@ Welcome to the cybersecurity audit report repository for Botium Toys. This repos
 - [Audit Scope and Goals](#audit-scope-and-goals)
 - [Documents](#documents)
 - [Contributors](#contributors)
-- [License](#license)
-
+  
 ## Overview
 Botium Toys, a leading toy manufacturer, understands the importance of cybersecurity in today's digital landscape. As part of our commitment to ensuring the safety and security of our IT infrastructure, we conducted an internal IT audit. This repository presents the results and recommendations derived from that audit.
 
