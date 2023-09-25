@@ -19,9 +19,9 @@ Botium Toys, a leading toy manufacturer, understands the importance of cybersecu
   - Ensuring compliance with necessary regulations and standards.
 
 ## Documents
-- [Botium Toys: Audit Scope and Goals (PDF)](URL_TO_BOTIUM_TOYS_AUDIT_SCOPE_AND_GOALS_PDF)
-- [Stakeholder Memorandum (Original)](URL_TO_ORIGINAL_STAKEHOLDER_MEMORANDUM_PDF)
-- [Stakeholder Memorandum (Completed)](URL_TO_COMPLETED_STAKEHOLDER_MEMORANDUM_PDF)
+- [Botium Toys: Audit Scope and Goals (PDF)][(URL_TO_BOTIUM_TOYS_AUDIT_SCOPE_AND_GOALS_PDF)](https://github.com/kylanpaige/Cybersecurity-Audit-Report/blob/main/docs/Botium-Toys_-Audit-scope-and-goals.pdf)
+- [Stakeholder Memorandum (Original)][(URL_TO_ORIGINAL_STAKEHOLDER_MEMORANDUM_PDF)](https://github.com/kylanpaige/Cybersecurity-Audit-Report/blob/main/docs/Stakeholder-memorandum.pdf)
+- [Stakeholder Memorandum (Completed)][(URL_TO_COMPLETED_STAKEHOLDER_MEMORANDUM_PDF)](https://github.com/kylanpaige/Cybersecurity-Audit-Report/blob/main/docs/Stakeholder-memorandum.pdf)
 
 ## Contributors
 - Kylan Paige [(URL_TO_YOUR_GITHUB_PROFILE)](https://github.com/kylanpaige) - Lead Auditor
