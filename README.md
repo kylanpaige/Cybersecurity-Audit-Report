@@ -1,7 +1,5 @@
 # Cybersecurity Audit Report for Botium Toys
 
-![Cybersecurity Banner](URL_TO_AN_OPTIONAL_BANNER_IMAGE)
-
 Welcome to the cybersecurity audit report repository for Botium Toys. This repository contains the findings, recommendations, and supporting documents from the internal IT audit conducted for Botium Toys.
 
 ## Table of Contents
@@ -27,10 +25,7 @@ Botium Toys, a leading toy manufacturer, understands the importance of cybersecu
 - [Stakeholder Memorandum (Completed)](URL_TO_COMPLETED_STAKEHOLDER_MEMORANDUM_PDF)
 
 ## Contributors
-- [Your Name](URL_TO_YOUR_GITHUB_PROFILE) - Lead Auditor
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](URL_TO_LICENSE_FILE) file for details.
+- Kylan Paige [(URL_TO_YOUR_GITHUB_PROFILE)](https://github.com/kylanpaige) - Lead Auditor
 
 ---
 
